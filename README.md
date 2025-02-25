@@ -1,5 +1,24 @@
 # Googlegirlhackathon
 
+## Overview
+This project is an intelligent process automation platform that leverages AI to streamline business operations. It automates repetitive tasks like data entry, document processing, and customer service interactions using modern AI/ML technologies.
+
+## Features
+- **Data Entry Automation**: Automatically process and validate CSV data uploads
+- **Document Processing**: AI-powered document classification and information extraction
+- **Customer Service Bot**: Intelligent chatbot with sentiment analysis for customer queries
+- **RESTful API**: Well-documented API endpoints for seamless integration
+
+## Tech Stack
+### Frontend
+- TypeScript
+- JavaScript
+- React.js
+
+### Backend
+- Python
+- Flask/Django
+
 # Backend
 
 This is a Django-based backend for the automation features. It provides API endpoints for document processing, data validation, and customer service.
